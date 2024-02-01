@@ -35,3 +35,4 @@ server/.DS_Store
 build/
 dist/
 panoptes-ui.egg-info/
+dev/test.db
